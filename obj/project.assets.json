@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/patrickdeleon7/.nuget/packages/": {}
+    "C:\\Users\\zac22\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/GuessIt_LocalRev/Guess_It_Repo/Guess_It_Repo.csproj",
+      "projectUniqueName": "C:\\Users\\zac22\\Documents\\~Programming\\Level1\\program_Stuff\\GithubPeerReviews\\PatrickGuessIt\\Guess_It_repo\\Guess_It_Repo.csproj",
       "projectName": "Guess_It_Repo",
-      "projectPath": "/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/GuessIt_LocalRev/Guess_It_Repo/Guess_It_Repo.csproj",
-      "packagesPath": "/Users/patrickdeleon7/.nuget/packages/",
-      "outputPath": "/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/GuessIt_LocalRev/Guess_It_Repo/obj/",
+      "projectPath": "C:\\Users\\zac22\\Documents\\~Programming\\Level1\\program_Stuff\\GithubPeerReviews\\PatrickGuessIt\\Guess_It_repo\\Guess_It_Repo.csproj",
+      "packagesPath": "C:\\Users\\zac22\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\zac22\\Documents\\~Programming\\Level1\\program_Stuff\\GithubPeerReviews\\PatrickGuessIt\\Guess_It_repo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/patrickdeleon7/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\zac22\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
